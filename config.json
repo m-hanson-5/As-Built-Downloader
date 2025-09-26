@@ -1,0 +1,20 @@
+{
+    "is_arcgis_online": true,
+    "agol_username": "",
+    "agol_password": "",
+    "plan_areas_path": "",
+    "approved_emails": [
+    ],
+    "survey_path": "",
+    "admin_email": "",
+    "output_directory": "",
+    "onedrive_synced": false,
+    "sharepoint_url": "http://google.com",
+    "as_built_directory": "",
+    "portal_url": "https://yourdomain.com/portal",
+    "portal_username": "",
+    "portal_password": "",
+    "client_id": "",
+    "tenant_id": "",
+    "client_secret": ""
+}
