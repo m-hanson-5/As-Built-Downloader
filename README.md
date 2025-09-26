@@ -40,4 +40,5 @@ A setup.py script is included to help initialize the config.json file.
 This tool was developed by **Mike Hanson**, GIS/Asset Management Technician for the City of Rosemount, MN, to assist with fulfilling as-built and GIS file requests.
 
 Learn more:
+https://github.com/m-hanson-5/As-Built-Downloader/
 
