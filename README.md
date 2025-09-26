@@ -1,6 +1,10 @@
 # As-Built & GIS Request Automation Tool
 
-This tool automates the processing of survey requests for as-built drawings and GIS data files. It monitors the specified survey feature class for new requests—specifically, new features where the `FulfilledDate` field is `null` (unfulfilled).
+This tool automates the processing of requests for as-built drawings and GIS data files. It monitors the specified survey feature class for new requests—specifically, new features where the `FulfilledDate` field is `null` (unfulfilled).
+
+Permissions are handled through a list of email addresses in config.json to match to the one entered by the survey respondent.
+
+A setup.py script is included to help initialize the config.json file.
 
 ## How It Works
 
@@ -36,3 +40,4 @@ This tool automates the processing of survey requests for as-built drawings and 
 This tool was developed by **Mike Hanson**, GIS/Asset Management Technician for the City of Rosemount, MN, to assist with fulfilling as-built and GIS file requests.
 
 Learn more:
+
