@@ -35,10 +35,13 @@ A setup.py script is included to help initialize the config.json file.
 2. **Configuration:**  
    You may manually update `config.json` as needed. This file should remain in the main directory alongside this script.
 
+   Note: A file geodatabase is included, called sample_layers.gdb, that can be used to help with schema matching for the plan areas and survey123 layers.
+
 ## About
 
 This tool was developed by **Mike Hanson**, GIS/Asset Management Technician for the City of Rosemount, MN, to assist with fulfilling as-built and GIS file requests.
 
 Learn more:
 https://github.com/m-hanson-5/As-Built-Downloader/
+
 
